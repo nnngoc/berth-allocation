@@ -14,3 +14,5 @@ Hình 4 mô tả rõ hơn một cách trực quan giữa 2 trường hợp cho q
 <p>
     <img src="infor/image2.png"/>
 </p>
+
+Chi tiết các ràng buộc và hàm mục tiêu cho BTL này có thể tìm thấy trong thư mục infor.
