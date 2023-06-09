@@ -6,5 +6,5 @@ Bài toán phân bổ bến có thể được biểu diễn bằng biểu đồ
 nhật có chiều dài là thời gian xử lý **pi** và chiều cao là kích thước tàu **si**. Ta gọi tàu i đang neo đậu tại đoạn bến vi tại thời điểm ui, và khi đó tàu chiếm các đoạn bến liên tiếp giữa **vi** và **vi + si − 1** và từ đơn vị thời gian ui đến **ui + pi − 1**
 
 <p>
-    <img src="infor/image1.png" width="220" height="240" />
+    <img src="infor/image1.png"/>
 </p>
