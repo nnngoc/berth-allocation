@@ -8,3 +8,9 @@ nhật có chiều dài là thời gian xử lý **pi** và chiều cao là kíc
 <p>
     <img src="infor/image1.png"/>
 </p>
+
+Hình 4 mô tả rõ hơn một cách trực quan giữa 2 trường hợp cho quyết định phân bổ tài nguyên không-thời gian cho tàu i và tàu j: (Case 1) là một đề xuất khả thi trong thực tế còn (Case 2) là không khả thi.
+
+<p>
+    <img src="infor/image2.png"/>
+</p>
